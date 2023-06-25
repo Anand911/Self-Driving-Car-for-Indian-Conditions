@@ -1,0 +1,37 @@
+QMainWindow {
+    background-color: #141414;
+}
+
+QPushButton {
+    background-color: #E50914;
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 5px;
+    padding: 10px;
+    border: none;
+    min-width: 120px;
+}
+
+QPushButton:hover {
+    background-color: #E50914;
+}
+
+QLineEdit {
+    background-color: #1F1F1F;
+    color: white;
+    font-size: 14px;
+    padding: 8px;
+    border: none;
+    border-radius: 5px;
+}
+
+QLabel {
+    color: white;
+    font-size: 18px;
+}
+
+#loginBox {
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+}
